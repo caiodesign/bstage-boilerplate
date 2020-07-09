@@ -1,5 +1,5 @@
 {
-  "name": "bstage",
+  "name": "backstage-boilerplate",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "next": "9.4.4",
+    "next-pwa": "^3.0.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "styled-components": "^5.1.1"
