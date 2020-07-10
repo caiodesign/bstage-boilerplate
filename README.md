@@ -1,18 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+bstage is a NextJS boilerplate with the most used technologies for create powerfull and scalable React apps!!
+
+## What's included
+- TypeScript
+- NextJS
+- ReactJS
+- Jest
+- Styled Components
+- Storybook
+- Eslint
+- Prettier
+- Husky
+- next-pwa
+
 
 ## Getting Started
 
-First, run the development server:
+First, clone or create your own app using `create-next-app`
 
 ```bash
-npm run dev
+$ npx create-next-app -e https://github.com/caiodesign/bstage-boilerplate
 # or
-yarn dev
+$ yarn create next-app -e https://github.com/caiodesign/bstage-boilerplate
+```
+
+Run the development server:
+
+```bash
+$ npm run dev
+# or
+$ yarn dev
+```
+
+or you can build using:
+```bash
+$ npm run build
+# or
+$ yarn build
+```
+
+and start a server based on builded files:
+```bash
+$ npm run start
+# or
+$ yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+
+## Storybook
+Run the development storybook server:
+
+```bash
+$ npm run storybook
+# or
+$ yarn storybook
+```
+Open [http://localhost:6006](http://localhost:6006) with your browser to see the result.
+
+You can build using 
+```bash
+$ npm run build-storybook
+# or
+$ yarn build-storybook
+```
+
 
 ## Learn More
 
