@@ -1,4 +1,4 @@
-bstage is a NextJS boilerplate with the most used technologies for create powerfull and scalable React apps!!
+bstage is a NextJS boilerplate with the most used technologies for create powerful and scalable React apps!!
 
 ## What's included
 - TypeScript
